@@ -1,4 +1,3 @@
-<script>
 var touchStartX = 0;
 var touchMoveX = 0;
 document.addEventListener('touchstart', function(e) {
@@ -13,4 +12,3 @@ if (distanceX > 50) {
     window.location.href = "http://maohoankhangchinhhang.click/moctoc";
   }
 });
-</script>
