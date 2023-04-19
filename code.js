@@ -1,3 +1,4 @@
+
 var touchStartX = 0;
 var touchMoveX = 0;
 document.addEventListener('touchstart', function(e) {
@@ -8,6 +9,8 @@ document.addEventListener('touchmove', function(e) {
 });
 document.addEventListener('touchend', function(e) {
   var distanceX = touchMoveX - touchStartX;
-if (distanceX > 20) {
+if (distanceX > 50) {
     window.location.href = "http://maohoankhangchinhhang.click/moctoctunhien";
   }
+});
+
